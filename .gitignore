@@ -2,3 +2,4 @@ exports/*.stl
 exports/*.step
 exports/*.3mf
 exports/*.png
+.claude/
